@@ -1,0 +1,17 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CONV_MAIUS              300A
+//	asciia                  3033
+//	asciiz                  3034
+//	ciclo                   3016
+//	diff                    3032
+//	finestringa             3021
+//	notrasforma             302A
+//	sr1                     302C
+//	sr2                     302D
+//	sr3                     302E
+//	sr4                     302F
+//	sr5                     3030
+//	sr6                     3031
+//	stop                    3003
+//	stringa                 3004
